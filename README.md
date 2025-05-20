@@ -17,6 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**The Traitors: Deception and Trust in Multi-Agent Language Model Simulations**|Pedro M. P. Curvo et.al.|[2505.12923](http://arxiv.org/abs/2505.12923)|null|
 |**2025-05-15**|**MASS: Multi-Agent Simulation Scaling for Portfolio Construction**|Taian Guo et.al.|[2505.10278](http://arxiv.org/abs/2505.10278)|**[link](https://github.com/gta0804/mass)**|
 |**2025-05-14**|**A drone that learns to efficiently find objects in agricultural fields: from simulation to the real world**|Rick van Essen et.al.|[2505.09278](http://arxiv.org/abs/2505.09278)|null|
 |**2025-05-14**|**SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**|Gaurav Koley et.al.|[2505.09081](http://arxiv.org/abs/2505.09081)|null|
