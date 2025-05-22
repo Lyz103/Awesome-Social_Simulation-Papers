@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,10 +18,10 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544](http://arxiv.org/abs/2505.14544)|**[link](https://github.com/codesaahil/optitraffic)**|
-|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|null|
-|**2025-05-19**|**Simulation Agent: A Framework for Integrating Simulation and Large Language Models for Enhanced Decision-Making**|Jacob Kleiman et.al.|[2505.13761](http://arxiv.org/abs/2505.13761)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
+|**2025-05-21**|**Simulation Agent: A Framework for Integrating Simulation and Large Language Models for Enhanced Decision-Making**|Jacob Kleiman et.al.|[2505.13761](http://arxiv.org/abs/2505.13761)|null|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
-|**2025-05-19**|**The Traitors: Deception and Trust in Multi-Agent Language Model Simulations**|Pedro M. P. Curvo et.al.|[2505.12923](http://arxiv.org/abs/2505.12923)|null|
+|**2025-05-19**|**The Traitors: Deception and Trust in Multi-Agent Language Model Simulations**|Pedro M. P. Curvo et.al.|[2505.12923](http://arxiv.org/abs/2505.12923)|**[link](https://github.com/pedrocurvo/thetraitors)**|
 |**2025-05-15**|**MASS: Multi-Agent Simulation Scaling for Portfolio Construction**|Taian Guo et.al.|[2505.10278](http://arxiv.org/abs/2505.10278)|**[link](https://github.com/gta0804/mass)**|
 |**2025-05-14**|**A drone that learns to efficiently find objects in agricultural fields: from simulation to the real world**|Rick van Essen et.al.|[2505.09278](http://arxiv.org/abs/2505.09278)|null|
 |**2025-05-14**|**SALM: A Multi-Agent Framework for Language Model-Driven Social Network Simulation**|Gaurav Koley et.al.|[2505.09081](http://arxiv.org/abs/2505.09081)|null|
@@ -75,7 +75,7 @@
 |**2025-03-16**|**Agent-Based Simulation of UAV Battery Recharging for IoT Applications: Precision Agriculture, Disaster Recovery, and Dengue Vector Control**|Leonardo Grando et.al.|[2503.12685](http://arxiv.org/abs/2503.12685)|null|
 |**2025-03-13**|**Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform**|Lukas Johannes Breitwieser et.al.|[2503.10796](http://arxiv.org/abs/2503.10796)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
