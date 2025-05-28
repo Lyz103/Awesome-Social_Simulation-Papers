@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-23**|**Stochastic agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
+|**2025-05-27**|**Agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
 |**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[2505.17801](http://arxiv.org/abs/2505.17801)|null|
 |**2025-05-23**|**HRSim: An agent-based simulation platform for high-capacity ride-sharing services**|Wang Chen et.al.|[2505.17758](http://arxiv.org/abs/2505.17758)|null|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
@@ -37,7 +37,7 @@
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
 |**2025-04-30**|**SimPRIVE: a Simulation framework for Physical Robot Interaction with Virtual Environments**|Federico Nesti et.al.|[2504.21454](http://arxiv.org/abs/2504.21454)|null|
 |**2025-04-30**|**UAV Marketplace Simulation Tool for BVLOS Operations**|Kıvanç Şerefoğlu et.al.|[2504.21428](http://arxiv.org/abs/2504.21428)|null|
-|**2025-04-25**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Socially-Aware and Human-AI Collaborative Future Transportation**|Zilin Huang et.al.|[2504.18010](http://arxiv.org/abs/2504.18010)|null|
+|**2025-05-27**|**Sky-Drive: A Distributed Multi-Agent Simulation Platform for Human-AI Collaborative and Socially-Aware Future Transportation**|Zilin Huang et.al.|[2504.18010](http://arxiv.org/abs/2504.18010)|null|
 |**2025-04-24**|**Perspective-Aware Reasoning in Vision-Language Models via Mental Imagery Simulation**|Phillip Y. Lee et.al.|[2504.17207](http://arxiv.org/abs/2504.17207)|null|
 |**2025-04-18**|**MobileCity: An Efficient Framework for Large-Scale Urban Behavior Simulation**|Xiaotong Ye et.al.|[2504.16946](http://arxiv.org/abs/2504.16946)|null|
 |**2025-04-19**|**SOTOPIA-S4: a user-friendly system for flexible, customizable, and large-scale social simulation**|Xuhui Zhou et.al.|[2504.16122](http://arxiv.org/abs/2504.16122)|null|
@@ -79,7 +79,7 @@
 |**2025-03-16**|**Agent-Based Simulation of UAV Battery Recharging for IoT Applications: Precision Agriculture, Disaster Recovery, and Dengue Vector Control**|Leonardo Grando et.al.|[2503.12685](http://arxiv.org/abs/2503.12685)|**[link](https://github.com/lgrando1/Drone-Thesis-Ph.D)**|
 |**2025-03-13**|**Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform**|Lukas Johannes Breitwieser et.al.|[2503.10796](http://arxiv.org/abs/2503.10796)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
