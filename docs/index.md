@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -19,10 +19,10 @@ layout: default
 |**2025-05-28**|**Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation**|Yu-Lun Song et.al.|[2505.21880](http://arxiv.org/abs/2505.21880)|null|
 |**2025-05-27**|**On Reconfigurable Bisimulation, with an Application to the Distributed Synthesis Problem**|Yehia Abd Alrahman et.al.|[2505.21672](http://arxiv.org/abs/2505.21672)|null|
 |**2025-05-27**|**GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation**|Hailin Zhong et.al.|[2505.21154](http://arxiv.org/abs/2505.21154)|null|
-|**2025-05-23**|**ZV-Sim: Probabilistic Simulation Framework for Pre-emergent Novel Zoonose Tracking**|Joseph Maffetone et.al.|[2505.20319](http://arxiv.org/abs/2505.20319)|null|
+|**2025-05-23**|**ZV-Sim: Probabilistic Simulation Framework for Pre-emergent Novel Zoonose Tracking**|Joseph Maffetone et.al.|[2505.20319](http://arxiv.org/abs/2505.20319)|**[link](https://github.com/jmaff/zv-sim)**|
 |**2025-05-27**|**Agent-based Monte Carlo simulations for reaction-diffusion models, population dynamics, and epidemic spreading**|Mohamed Swailem et.al.|[2505.18145](http://arxiv.org/abs/2505.18145)|null|
 |**2025-05-23**|**Integrating Counterfactual Simulations with Language Models for Explaining Multi-Agent Behaviour**|Bálint Gyevnár et.al.|[2505.17801](http://arxiv.org/abs/2505.17801)|null|
-|**2025-05-23**|**HRSim: An agent-based simulation platform for high-capacity ride-sharing services**|Wang Chen et.al.|[2505.17758](http://arxiv.org/abs/2505.17758)|null|
+|**2025-05-23**|**HRSim: An agent-based simulation platform for high-capacity ride-sharing services**|Wang Chen et.al.|[2505.17758](http://arxiv.org/abs/2505.17758)|**[link](https://github.com/hku-smart-mobility-lab/ride-sharing-simulator)**|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
 |**2025-05-20**|**Multi-agent Reinforcement Learning vs. Fixed-Time Control for Traffic Signal Optimization: A Simulation Study**|Saahil Mahato et.al.|[2505.14544](http://arxiv.org/abs/2505.14544)|**[link](https://github.com/codesaahil/optitraffic)**|
 |**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
