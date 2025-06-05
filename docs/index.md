@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**AI Agents for Conversational Patient Triage: Preliminary Simulation-Based Evaluation with Real-World EHR Data**|Sina Rashidian et.al.|[2506.04032](http://arxiv.org/abs/2506.04032)|null|
+|**2025-06-04**|**GA-S $^3$ : Comprehensive Social Network Simulation with Group Agents**|Yunyao Zhang et.al.|[2506.03532](http://arxiv.org/abs/2506.03532)|null|
+|**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474](http://arxiv.org/abs/2506.03474)|null|
 |**2025-06-01**|**Test Automation for Interactive Scenarios via Promptable Traffic Simulation**|Augusto Mondelli et.al.|[2506.01199](http://arxiv.org/abs/2506.01199)|null|
 |**2025-05-31**|**AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation**|Ming Wang et.al.|[2506.00551](http://arxiv.org/abs/2506.00551)|null|
 |**2025-05-31**|**Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents**|Xiao Yu et.al.|[2506.00320](http://arxiv.org/abs/2506.00320)|null|
