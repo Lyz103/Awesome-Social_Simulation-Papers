@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**|Ziyi Wang et.al.|[2506.05606](http://arxiv.org/abs/2506.05606)|null|
 |**2025-06-05**|**Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles**|Julien Soulé et.al.|[2506.04849](http://arxiv.org/abs/2506.04849)|null|
 |**2025-06-05**|**Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling**|Bihan Xu et.al.|[2506.04699](http://arxiv.org/abs/2506.04699)|null|
 |**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
