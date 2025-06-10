@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**|Sreeja Roy-Singh et.al.|[2506.07540](http://arxiv.org/abs/2506.07540)|null|
+|**2025-06-06**|**AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture**|Xiaoran Liu et.al.|[2506.06580](http://arxiv.org/abs/2506.06580)|null|
 |**2025-06-05**|**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**|Ziyi Wang et.al.|[2506.05606](http://arxiv.org/abs/2506.05606)|null|
 |**2025-06-05**|**Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles**|Julien Soulé et.al.|[2506.04849](http://arxiv.org/abs/2506.04849)|null|
 |**2025-06-05**|**Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling**|Bihan Xu et.al.|[2506.04699](http://arxiv.org/abs/2506.04699)|null|
