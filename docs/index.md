@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-09**|**Interpreting Agent Behaviors in Reinforcement-Learning-Based Cyber-Battle Simulation Platforms**|Jared Claypoole et.al.|[2506.08192](http://arxiv.org/abs/2506.08192)|null|
 |**2025-06-09**|**Fractional Collisions: A Framework for Risk Estimation of Counterfactual Conflicts using Autonomous Driving Behavior Simulations**|Sreeja Roy-Singh et.al.|[2506.07540](http://arxiv.org/abs/2506.07540)|null|
 |**2025-06-06**|**AI Simulation by Digital Twins: Systematic Survey, Reference Framework, and Mapping to a Standardized Architecture**|Xiaoran Liu et.al.|[2506.06580](http://arxiv.org/abs/2506.06580)|null|
-|**2025-06-05**|**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**|Ziyi Wang et.al.|[2506.05606](http://arxiv.org/abs/2506.05606)|null|
+|**2025-06-16**|**OPeRA: A Dataset of Observation, Persona, Rationale, and Action for Evaluating LLMs on Human Online Shopping Behavior Simulation**|Ziyi Wang et.al.|[2506.05606](http://arxiv.org/abs/2506.05606)|null|
 |**2025-06-05**|**Towards a Multi-Agent Simulation of Cyber-attackers and Cyber-defenders Battles**|Julien Soulé et.al.|[2506.04849](http://arxiv.org/abs/2506.04849)|null|
 |**2025-06-05**|**Empowering Economic Simulation for Massively Multiplayer Online Games through Generative Agent-Based Modeling**|Bihan Xu et.al.|[2506.04699](http://arxiv.org/abs/2506.04699)|null|
 |**2025-06-01**|**Language-Guided Multi-Agent Learning in Simulations: A Unified Framework and Evaluation**|Zhengyang Li et.al.|[2506.04251](http://arxiv.org/abs/2506.04251)|null|
@@ -25,7 +25,7 @@ layout: default
 |**2025-06-04**|**GA-S $^3$ : Comprehensive Social Network Simulation with Group Agents**|Yunyao Zhang et.al.|[2506.03532](http://arxiv.org/abs/2506.03532)|**[link](https://github.com/ai4ss/gas-3)**|
 |**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474](http://arxiv.org/abs/2506.03474)|null|
 |**2025-06-04**|**Test Automation for Interactive Scenarios via Promptable Traffic Simulation**|Augusto Mondelli et.al.|[2506.01199](http://arxiv.org/abs/2506.01199)|null|
-|**2025-06-10**|**AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation**|Ming Wang et.al.|[2506.00551](http://arxiv.org/abs/2506.00551)|null|
+|**2025-06-10**|**AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation**|Ming Wang et.al.|[2506.00551](http://arxiv.org/abs/2506.00551)|**[link](https://github.com/sci-m-wang/annaagent)**|
 |**2025-05-31**|**Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents**|Xiao Yu et.al.|[2506.00320](http://arxiv.org/abs/2506.00320)|null|
 |**2025-06-03**|**A novel sensitivity analysis method for agent-based models stratifies in-silico tumor spheroid simulations**|Edward H. Rohr et.al.|[2506.00168](http://arxiv.org/abs/2506.00168)|null|
 |**2025-05-28**|**Scalable, Symbiotic, AI and Non-AI Agent Based Parallel Discrete Event Simulations**|Atanu Barai et.al.|[2505.23846](http://arxiv.org/abs/2505.23846)|null|
