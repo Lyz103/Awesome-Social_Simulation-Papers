@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
 |**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599](http://arxiv.org/abs/2506.13599)|null|
 |**2025-06-14**|**IndoorWorld: Integrating Physical Task Solving and Social Simulation in A Heterogeneous Multi-Agent Environment**|Dekun Wu et.al.|[2506.12331](http://arxiv.org/abs/2506.12331)|null|
 |**2025-06-09**|**Interpreting Agent Behaviors in Reinforcement-Learning-Based Cyber-Battle Simulation Platforms**|Jared Claypoole et.al.|[2506.08192](http://arxiv.org/abs/2506.08192)|null|
