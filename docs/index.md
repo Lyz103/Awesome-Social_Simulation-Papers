@@ -7,13 +7,19 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Agents
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**Diffusion of Tracer Particles in Early Growing Biofilms. A Computer Simulation Study**|Fabian A. Garcia Daza et.al.|[2506.17653](http://arxiv.org/abs/2506.17653)|null|
+|**2025-06-20**|**Kaleidoscopic Teaming in Multi Agent Simulations**|Ninareh Mehrabi et.al.|[2506.17514](http://arxiv.org/abs/2506.17514)|null|
+|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|null|
+|**2025-06-20**|**Exploring Traffic Simulation and Cybersecurity Strategies Using Large Language Models**|Lu Gao et.al.|[2506.16699](http://arxiv.org/abs/2506.16699)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-05-28**|**SimuGen: Multi-modal Agentic Framework for Constructing Block Diagram-Based Simulation Models**|Xinxing Ren et.al.|[2506.15695](http://arxiv.org/abs/2506.15695)|null|
 |**2025-06-17**|**SimSpark: Interactive Simulation of Social Media Behaviors**|Ziyue Lin et.al.|[2506.14476](http://arxiv.org/abs/2506.14476)|null|
 |**2025-06-16**|**CAMS: A CityGPT-Powered Agentic Framework for Urban Human Mobility Simulation**|Yuwei Du et.al.|[2506.13599](http://arxiv.org/abs/2506.13599)|null|
 |**2025-06-14**|**IndoorWorld: Integrating Physical Task Solving and Social Simulation in A Heterogeneous Multi-Agent Environment**|Dekun Wu et.al.|[2506.12331](http://arxiv.org/abs/2506.12331)|null|
