@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust**|Amogh Mannekote et.al.|[2507.02197](http://arxiv.org/abs/2507.02197)|null|
+|**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
+|**2025-07-01**|**TransLaw: Benchmarking Large Language Models in Multi-Agent Simulation of the Collaborative Translation**|Xi Xuan et.al.|[2507.00875](http://arxiv.org/abs/2507.00875)|null|
+|**2025-06-30**|**Examining Reject Relations in Stimulus Equivalence Simulations**|Alexis Carrillo et.al.|[2507.00265](http://arxiv.org/abs/2507.00265)|null|
+|**2025-06-30**|**Evaluating the Simulation of Human Personality-Driven Susceptibility to Misinformation with LLMs**|Manuel Pratelli et.al.|[2506.23610](http://arxiv.org/abs/2506.23610)|null|
+|**2025-06-29**|**GATSim: Urban Mobility Simulation with Generative Agents**|Qi Liu et.al.|[2506.23306](http://arxiv.org/abs/2506.23306)|null|
+|**2025-06-27**|**Agent-based modeling and the sociology of money: some suggestions for refining monetary theory using social simulation**|Eduardo Coltre Ferraciolli et.al.|[2506.22318](http://arxiv.org/abs/2506.22318)|null|
+|**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
+|**2025-06-27**|**SceneDiffuser++: City-Scale Traffic Simulation via a Generative World Model**|Shuhan Tan et.al.|[2506.21976](http://arxiv.org/abs/2506.21976)|null|
+|**2025-06-26**|**CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation**|Nicolas Bougie et.al.|[2506.21805](http://arxiv.org/abs/2506.21805)|null|
+|**2025-06-26**|**MobiVerse: Scaling Urban Mobility Simulation with Hybrid Lightweight Domain-Specific Generator and Large Language Models**|Yifan Liu et.al.|[2506.21784](http://arxiv.org/abs/2506.21784)|null|
+|**2025-06-26**|**Beyond Reactive Safety: Risk-Aware LLM Alignment via Long-Horizon Simulation**|Chenkai Sun et.al.|[2506.20949](http://arxiv.org/abs/2506.20949)|null|
+|**2025-06-25**|**A Visualization Framework for Exploring Multi-Agent-Based Simulations Case Study of an Electric Vehicle Home Charging Ecosystem**|Kristoffer Christensen et.al.|[2506.20400](http://arxiv.org/abs/2506.20400)|null|
+|**2025-06-24**|**LLM-Based Social Simulations Require a Boundary**|Zengqing Wu et.al.|[2506.19806](http://arxiv.org/abs/2506.19806)|null|
 |**2025-06-21**|**Diffusion of Tracer Particles in Early Growing Biofilms. A Computer Simulation Study**|Fabian A. Garcia Daza et.al.|[2506.17653](http://arxiv.org/abs/2506.17653)|null|
 |**2025-06-20**|**Kaleidoscopic Teaming in Multi Agent Simulations**|Ninareh Mehrabi et.al.|[2506.17514](http://arxiv.org/abs/2506.17514)|null|
 |**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|**[link](https://github.com/orangesodahub/infgen)**|
@@ -43,7 +57,7 @@
 |**2025-05-28**|**Scalable, Symbiotic, AI and Non-AI Agent Based Parallel Discrete Event Simulations**|Atanu Barai et.al.|[2505.23846](http://arxiv.org/abs/2505.23846)|null|
 |**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
 |**2025-05-28**|**Sentiment Simulation using Generative AI Agents**|Melrose Tia et.al.|[2505.22125](http://arxiv.org/abs/2505.22125)|null|
-|**2025-05-28**|**Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation**|Yu-Lun Song et.al.|[2505.21880](http://arxiv.org/abs/2505.21880)|null|
+|**2025-07-03**|**Incorporating LLMs for Large-Scale Urban Complex Mobility Simulation**|Yu-Lun Song et.al.|[2505.21880](http://arxiv.org/abs/2505.21880)|null|
 |**2025-05-27**|**On Reconfigurable Bisimulation, with an Application to the Distributed Synthesis Problem**|Yehia Abd Alrahman et.al.|[2505.21672](http://arxiv.org/abs/2505.21672)|null|
 |**2025-05-27**|**GGBond: Growing Graph-Based AI-Agent Society for Socially-Aware Recommender Simulation**|Hailin Zhong et.al.|[2505.21154](http://arxiv.org/abs/2505.21154)|null|
 |**2025-05-23**|**ZV-Sim: Probabilistic Simulation Framework for Pre-emergent Novel Zoonose Tracking**|Joseph Maffetone et.al.|[2505.20319](http://arxiv.org/abs/2505.20319)|**[link](https://github.com/jmaff/zv-sim)**|
@@ -109,7 +123,7 @@
 |**2025-03-16**|**Agent-Based Simulation of UAV Battery Recharging for IoT Applications: Precision Agriculture, Disaster Recovery, and Dengue Vector Control**|Leonardo Grando et.al.|[2503.12685](http://arxiv.org/abs/2503.12685)|**[link](https://github.com/lgrando1/Drone-Thesis-Ph.D)**|
 |**2025-03-13**|**Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform**|Lukas Johannes Breitwieser et.al.|[2503.10796](http://arxiv.org/abs/2503.10796)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250705>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
