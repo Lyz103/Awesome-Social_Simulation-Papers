@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Value-Based Large Language Model Agent Simulation for Mutual Evaluation of Trust and Interpersonal Closeness**|Yuki Sakamoto et.al.|[2507.11979](http://arxiv.org/abs/2507.11979)|null|
+|**2025-07-14**|**Towards Realistic and Interpretable Market Simulations: Factorizing Financial Power Law using Optimal Transport**|Ryuji Hashimoto et.al.|[2507.09863](http://arxiv.org/abs/2507.09863)|null|
+|**2025-07-13**|**TinyTroupe: An LLM-powered Multiagent Persona Simulation Toolkit**|Paulo Salem et.al.|[2507.09788](http://arxiv.org/abs/2507.09788)|null|
+|**2025-07-15**|**Simulation for All: A Step-by-Step Cookbook for Developing Human-Centered Multi-Agent Transportation Simulators**|Shiva Azimi et.al.|[2507.09367](http://arxiv.org/abs/2507.09367)|null|
+|**2025-07-10**|**Automating MD simulations for Proteins using Large language Models: NAMD-Agent**|Achuth Chandrasekhar et.al.|[2507.07887](http://arxiv.org/abs/2507.07887)|null|
+|**2025-07-11**|**StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production-Living Simulations with Stardew Valley**|Weihao Tan et.al.|[2507.07445](http://arxiv.org/abs/2507.07445)|null|
+|**2025-07-08**|**Too Human to Model:The Uncanny Valley of LLMs in Social Simulation -- When Generative Language Agents Misalign with Modelling Principles**|Yongchao Zeng et.al.|[2507.06310](http://arxiv.org/abs/2507.06310)|null|
 |**2025-07-03**|**A Fuzzy Supervisor Agent Design for Clinical Reasoning Assistance in a Multi-Agent Educational Clinical Scenario Simulation**|Weibing Zheng et.al.|[2507.05275](http://arxiv.org/abs/2507.05275)|null|
 |**2025-07-02**|**Do Role-Playing Agents Practice What They Preach? Belief-Behavior Consistency in LLM-Based Simulations of Human Trust**|Amogh Mannekote et.al.|[2507.02197](http://arxiv.org/abs/2507.02197)|null|
 |**2025-07-01**|**SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound**|Yunke Ao et.al.|[2507.01152](http://arxiv.org/abs/2507.01152)|null|
@@ -124,7 +131,7 @@
 |**2025-03-16**|**Agent-Based Simulation of UAV Battery Recharging for IoT Applications: Precision Agriculture, Disaster Recovery, and Dengue Vector Control**|Leonardo Grando et.al.|[2503.12685](http://arxiv.org/abs/2503.12685)|**[link](https://github.com/lgrando1/Drone-Thesis-Ph.D)**|
 |**2025-03-13**|**Design and Analysis of an Extreme-Scale, High-Performance, and Modular Agent-Based Simulation Platform**|Lukas Johannes Breitwieser et.al.|[2503.10796](http://arxiv.org/abs/2503.10796)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250718>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
